@@ -15,7 +15,6 @@ Jetpack 4.6.1 (L4T R32.6.1)
 ## Dependencies
 
 - [Pytorch 1.10 - torchvision 0.11.1](https://forums.developer.nvidia.com/t/pytorch-for-jetson/72048)
-- [traitlets](https://github.com/ipython/traitlets)
 - [jetcam](https://github.com/NVIDIA-AI-IOT/jetcam)
 - [Jetson.GPIO - Linux for Tegra](https://github.com/NVIDIA/jetson-gpio)
 - [opencv](https://github.com/opencv/opencv)
